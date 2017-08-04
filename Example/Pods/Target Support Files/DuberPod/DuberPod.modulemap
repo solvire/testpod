@@ -1,0 +1,6 @@
+framework module DuberPod {
+  umbrella header "DuberPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

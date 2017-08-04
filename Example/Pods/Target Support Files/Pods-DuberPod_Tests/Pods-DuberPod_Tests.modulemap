@@ -1,0 +1,6 @@
+framework module Pods_DuberPod_Tests {
+  umbrella header "Pods-DuberPod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "DuberPod",
+  "version": "0.1.0",
+  "summary": "A short description of DuberPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/solvire/DuberPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "solvire": "stevenjscott@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/solvire/DuberPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DuberPod/Classes/**/*"
+}
